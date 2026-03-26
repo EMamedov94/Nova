@@ -1,5 +1,4 @@
-package com.example.chatchat.config.jwt;
-
+package com.example.nova.config.jwt;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

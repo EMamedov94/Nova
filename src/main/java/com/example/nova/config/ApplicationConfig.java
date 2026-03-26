@@ -1,6 +1,6 @@
-package com.example.chatchat.config;
+package com.example.nova.config;
 
-import com.example.chatchat.repositories.UserRepository;
+import com.example.nova.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

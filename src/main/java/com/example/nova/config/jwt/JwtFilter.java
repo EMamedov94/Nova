@@ -1,4 +1,4 @@
-package com.example.chatchat.config.jwt;
+package com.example.nova.config.jwt;
 
 import jakarta.annotation.Nonnull;
 import jakarta.servlet.FilterChain;
